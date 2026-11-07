@@ -1,0 +1,134 @@
+[
+  {
+    "ticker": "CIEN",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 382.24634310169074,
+    "buyProbability": 68.3,
+    "sellProbability": 31.7,
+    "holdProbability": 0,
+    "confidence": "high",
+    "close": 243.38999938964844,
+    "indicators": {
+      "rsi": 33.21,
+      "stochasticK": 12.490358309393992,
+      "williamsR": -87.50964169060602,
+      "patternScore": 0,
+      "macd": -43.794488466703,
+      "macdSignal": -30.386246673062317,
+      "macdHistogram": -13.408241793640684,
+      "sma20": 329.7985008239746,
+      "ema20": 319.1048764222606
+    }
+  },
+  {
+    "ticker": "GLW",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 391.17377290664575,
+    "buyProbability": 68.4,
+    "sellProbability": 31.6,
+    "holdProbability": 0,
+    "confidence": "high",
+    "close": 106.12999725341797,
+    "indicators": {
+      "rsi": 29.82,
+      "stochasticK": 12.30679771581097,
+      "williamsR": -87.69320228418903,
+      "patternScore": 0,
+      "macd": -14.06820458632248,
+      "macdSignal": -13.693069447139735,
+      "macdHistogram": -0.37513513918274555,
+      "sma20": 128.49199867248535,
+      "ema20": 127.70167082336341
+    }
+  },
+  {
+    "ticker": "GOOGL",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 339.2867884712312,
+    "buyProbability": 67.7,
+    "sellProbability": 32.3,
+    "holdProbability": 0,
+    "confidence": "high",
+    "close": 284.7799987792969,
+    "indicators": {
+      "rsi": 29.92,
+      "stochasticK": 11.584359881761772,
+      "williamsR": -88.41564011823823,
+      "patternScore": 0,
+      "macd": -25.69230964856274,
+      "macdSignal": -15.165114813041157,
+      "macdHistogram": -10.527194835521584,
+      "sma20": 317.4414993286133,
+      "ema20": 309.06563673668103
+    }
+  },
+  {
+    "ticker": "INTC",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 383.0612297704545,
+    "buyProbability": 68.3,
+    "sellProbability": 31.7,
+    "holdProbability": 0,
+    "confidence": "high",
+    "close": 56.279998779296875,
+    "indicators": {
+      "rsi": 25.72,
+      "stochasticK": 10.799185518556554,
+      "williamsR": -89.20081448144344,
+      "patternScore": 0,
+      "macd": -15.007820911896545,
+      "macdSignal": -13.165228305718836,
+      "macdHistogram": -1.8425926061777087,
+      "sma20": 83.07599983215331,
+      "ema20": 79.67751093973831
+    }
+  },
+  {
+    "ticker": "POET",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 118.17759017049448,
+    "buyProbability": 54.5,
+    "sellProbability": 40.1,
+    "holdProbability": 5.3,
+    "confidence": "medium",
+    "close": 5.070000171661377,
+    "indicators": {
+      "rsi": 40.71,
+      "stochasticK": 57.219264018375824,
+      "williamsR": -42.780735981624176,
+      "patternScore": 0,
+      "macd": -0.7080127948369741,
+      "macdSignal": -0.8649287604198846,
+      "macdHistogram": 0.15691596558291054,
+      "sma20": 5.470500040054321,
+      "ema20": 5.562743379150319
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2026-11-06",
+    "opinion": "HOLD",
+    "score": 203.39599336756993,
+    "buyProbability": 55.7,
+    "sellProbability": 44.3,
+    "holdProbability": 0,
+    "confidence": "medium",
+    "close": 358.2200012207031,
+    "indicators": {
+      "rsi": 42.39,
+      "stochasticK": 26.380129884195284,
+      "williamsR": -73.61987011580472,
+      "patternScore": 0,
+      "macd": 7.118139218061401,
+      "macdSignal": 7.619350379009189,
+      "macdHistogram": -0.5012111609477881,
+      "sma20": 380.42249908447263,
+      "ema20": 379.79671363296495
+    }
+  }
+]
